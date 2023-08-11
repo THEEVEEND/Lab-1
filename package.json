@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "birthday-calculator": "^1.0.0",
+    "chalk": "^5.3.0",
+    "mathjs": "^11.9.1"
+  },
+  "devDependencies": {
+    "random-name": "^0.1.2"
+  }
+}
